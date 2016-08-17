@@ -50,7 +50,7 @@ public class MainFragment extends Fragment {
     static GridView gridView;
     public static int width;
     // you have to sign up and get your own API key 3
-    static String API_KEY = "1f1e4e852b00dc660803e835ee5fc600";
+    static String API_KEY = "";
     static ArrayList<String> posters;
     static boolean sortbyp = false;
     static boolean sortByFavorites;
